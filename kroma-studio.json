@@ -1,8 +1,8 @@
 {
- "versao": "6.0.2",
- "url": "https://github.com/kromalab-studio/kroma-studio-releases/releases/download/v6.0.2/KromaStudio-6.0.2-Setup.exe",
- "tamanho": 222677400,
- "sha256": "b88bf6744ed7c45faa8a4411c05f46b59ef6dc7f02fcd500e6210a0b9a3a9d10",
+ "versao": "6.0.3",
+ "url": "https://github.com/kromalab-studio/kroma-studio-releases/releases/download/v6.0.3/KromaStudio-6.0.3-Setup.exe",
+ "tamanho": 222687883,
+ "sha256": "73ba6c8af2bfac8799fa183fc68e7d0ad7e7433fd23718e8bfd0d6d4312a1648",
  "obrigatoria": false,
- "notas": "Motor de IA com o mesmo acabamento medido do modo rapido: zumbido da rede, estalos, sibilancia, volume no alvo e teto."
+ "notas": "Corte: som e imagem deixam de desencontrar conforme os cortes somam. Suite de regressao roda antes de cada build."
 }
