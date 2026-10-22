@@ -1,8 +1,8 @@
 {
- "versao": "6.0.0",
- "url": "https://github.com/kromalab-studio/kroma-studio-releases/releases/download/v6.0.0/KromaStudio-6.0.0-Setup.exe",
- "tamanho": 222666435,
- "sha256": "8912f6cbb80d6df14803e420c66ee9ae6bceeb06d4807639cdeed6edc75d9328",
+ "versao": "6.0.1",
+ "url": "https://github.com/kromalab-studio/kroma-studio-releases/releases/download/v6.0.1/KromaStudio-6.0.1-Setup.exe",
+ "tamanho": 222684471,
+ "sha256": "f95c65b070446ee09455b88b46a06e2fc029208cd2ae510cabf22bc207201099",
  "obrigatoria": false,
- "notas": "Áudio: cadeia nova que mede o arquivo antes de limpar — tira o zumbido da rede elétrica, os estalos de boca e a sibilância, e acerta o volume sem deformar a voz. Cortar: a transcrição agora protege as palavras, então o corte não come mais o começo das falas; novo ajuste automático de limiar. Licença por assinatura e atualização automática."
+ "notas": "Ativacao por licenca e atualizacao automatica."
 }
