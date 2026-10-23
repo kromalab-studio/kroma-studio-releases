@@ -1,8 +1,8 @@
 {
- "versao": "6.0.3",
- "url": "https://github.com/kromalab-studio/kroma-studio-releases/releases/download/v6.0.3/KromaStudio-6.0.3-Setup.exe",
- "tamanho": 222687883,
- "sha256": "73ba6c8af2bfac8799fa183fc68e7d0ad7e7433fd23718e8bfd0d6d4312a1648",
+ "versao": "6.0.4",
+ "url": "https://github.com/kromalab-studio/kroma-studio-releases/releases/download/v6.0.4/KromaStudio-6.0.4-Setup.exe",
+ "tamanho": 222670433,
+ "sha256": "8cc6f85e23b7bf2011ca094b8e79cee52aa8fb92fd66b51e8b3d1d6601446c2f",
  "obrigatoria": false,
- "notas": "Corte: som e imagem deixam de desencontrar conforme os cortes somam. Suite de regressao roda antes de cada build."
+ "notas": "Arquivo arrastado para a janela nao se perde mais, e formato recusado avisa o motivo."
 }
