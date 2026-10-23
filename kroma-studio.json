@@ -1,8 +1,8 @@
 {
- "versao": "6.0.4",
- "url": "https://github.com/kromalab-studio/kroma-studio-releases/releases/download/v6.0.4/KromaStudio-6.0.4-Setup.exe",
- "tamanho": 222670433,
- "sha256": "8cc6f85e23b7bf2011ca094b8e79cee52aa8fb92fd66b51e8b3d1d6601446c2f",
+ "versao": "6.0.6",
+ "url": "https://github.com/kromalab-studio/kroma-studio-releases/releases/download/v6.0.6/KromaStudio-6.0.6-Setup.exe",
+ "tamanho": 222683793,
+ "sha256": "72dd50d3419a522931130d391c49dc65b9194c31de066661da2ce02708ff0a58",
  "obrigatoria": false,
- "notas": "Arquivo arrastado para a janela nao se perde mais, e formato recusado avisa o motivo."
+ "notas": "Barra de progresso no download da atualizacao, e o programa reabre sozinho depois de instalar."
 }
