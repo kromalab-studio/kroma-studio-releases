@@ -1,8 +1,8 @@
 {
- "versao": "6.0.8",
- "url": "https://github.com/kromalab-studio/kroma-studio-releases/releases/download/v6.0.8/KromaStudio-6.0.8-Setup.exe",
- "tamanho": 222141973,
- "sha256": "af512fa509f526d3cd111ba2275d6c328bb5b56705f3b71ee9a217055e37188d",
+ "versao": "6.1.0",
+ "url": "https://github.com/kromalab-studio/kroma-studio-releases/releases/download/v6.1.0/KromaStudio-6.1.0-Setup.exe",
+ "tamanho": 222159582,
+ "sha256": "b2aa5ccf0faa77d152bbe99956f09276420439fb8d5272b0d66cb939fdfa1362",
  "obrigatoria": false,
- "notas": "A atualizacao instala na mesma pasta em que o programa ja esta, mesmo fora do disco C."
+ "notas": "Gravacao baixa: o corte mede o limiar no proprio arquivo e o audio e levantado antes da limpeza, saindo no nivel certo."
 }
