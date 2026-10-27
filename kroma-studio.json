@@ -1,8 +1,8 @@
 {
- "versao": "6.0.7",
- "url": "https://github.com/kromalab-studio/kroma-studio-releases/releases/download/v6.0.7/KromaStudio-6.0.7-Setup.exe",
- "tamanho": 222672548,
- "sha256": "fc9c608011b6da4351e60fc9d3b3d4d6018aca508c9ff47bca9ba82a5a235c7d",
+ "versao": "6.0.8",
+ "url": "https://github.com/kromalab-studio/kroma-studio-releases/releases/download/v6.0.8/KromaStudio-6.0.8-Setup.exe",
+ "tamanho": 222141973,
+ "sha256": "af512fa509f526d3cd111ba2275d6c328bb5b56705f3b71ee9a217055e37188d",
  "obrigatoria": false,
- "notas": "Menu Modo e pastas de saida passam a listar Remover fundo e Edicao, com Alt+5, Alt+6, Ctrl+5 e Ctrl+6."
+ "notas": "A atualizacao instala na mesma pasta em que o programa ja esta, mesmo fora do disco C."
 }
